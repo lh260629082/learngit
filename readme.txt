@@ -7,4 +7,7 @@ Git tracks changes of files.
 
 Creating a new branch is quick and simple.
 This is a modify for dev.
-This is for test git stash
+
+This is for test git stash.
+To test git stash.
+
