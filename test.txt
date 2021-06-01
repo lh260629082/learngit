@@ -1,0 +1,10 @@
+four
+This is a helloworld for test.txt
+one
+two
+three
+This is a test for cat >> test.txt
+one
+two
+three
+This is a test for sed -i msg file
